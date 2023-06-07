@@ -30,3 +30,5 @@ While these techniques might be relevant for learning purposes, they are not use
     - **Fully Transformer-based Object Detector (ViDT)**
     - **Point Cloud Transformer (PCT)**
 5. **Vision Permutator: MLP-Like Architecture**
+6. **GAN**
+7. **Diffusion**
