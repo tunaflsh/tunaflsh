@@ -21,7 +21,7 @@ While these techniques might be relevant for learning purposes, they are not use
     - **Faster R-CNN**
     - **Mask R-CNN**
 3. **You Only Look Once (YOLO)**
-    - **YOLOv1-v8**
+    - **YOLOv1, ..., YOLOv8**
 4. **Transformer-based**
     - **Vision Transformer (ViT)**
     - **Data-efficient Vision Transformer (DeiT)**
