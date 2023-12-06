@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm a CS student (starting Master degree soon) interested in AI. I've been thinking about a universal solution to all problems since my childhood, and always thought the solution lies in maths. It turns out I should've been focusing on natural language.
+- Currently a CS Student
+- Languages: English, German, Russian, Vietnamese
+- Pronouns: He/Him
+- Discord: tunaflsh
 
-I don't know how or if you would reach out to me. But anyway, I speak English, German, Russian and Vietnamese.
-
+<!--
 Here is my gist on AI papers I find important and relevant: [My Personal Collection of AI Papers](https://gist.github.com/tunaflsh/b391441be5254218ab665c64cef53272)
 
 <!--
